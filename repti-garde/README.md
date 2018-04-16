@@ -1,3 +1,15 @@
+Projet REPTI-GARDE
+========================
+
+
+-Emploi du theme Bootswatch Minty. https://bootswatch.com/minty/
+
+-Ajout FOSUserBundle https://symfony.com/doc/current/bundles/FOSUserBundle/index.html
+
+-Ajout EasyAdmin https://symfony.com/doc/current/bundles/EasyAdminBundle/index.html
+
+
+
 Symfony Standard Edition
 ========================
 
